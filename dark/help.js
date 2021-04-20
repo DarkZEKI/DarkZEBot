@@ -7,7 +7,7 @@ const help = () => {
 ╠➥ 𝐃𝐀𝐑𝐊 𝐁𝐎𝐓
 ╠➥ *3.2*
 ╠➥ 𝐃𝐎𝐍𝐎:  ⃬⃗𝐷𝐴𝑅𝐾⃖  ☔
-╠➥ *wa.me/+5522996215481*
+╠➥ *wa.me/+5521970019765*
 ╠➥ 𝐒𝐓𝐀𝐓𝐔𝐒: ON
 ║
 ╠══✪〘 NOVIDADES 〙✪══
@@ -22,7 +22,7 @@ const help = () => {
 ║7 *${prefix}gpessoa [premium]*
 ║8 *${prefix}wame*
 ║9 *${prefix}spamcall*
-║10 *${prefix}play (nome da msc)*
+║10 *${prefix}play (nome de msc)*
 ║
 ╠══✪〘 MENU 〙✪══
 ║
@@ -38,7 +38,7 @@ const help = () => {
 ║20 *${prefix}wait [na legenda]*
 ║21 *${prefix}setprefix*
 ║
-╠══✪〘 OUTROS 〙✪══
+╠══✪〘 OTROS 〙✪══
 ║
 ║22 *${prefix}linkgp*
 ║23 *${prefix}simih [1/0]*
@@ -73,7 +73,7 @@ const help = () => {
 ║52 *${prefix}marcar2*
 ║53 *${prefix}marcar3*
 ║
-╠══✪〘 IMAGENS 〙✪══
+╠══✪〘 IMAGENES 〙✪══
 ║
 ║54 *${prefix}loli* [off]
 ║55 *${prefix}loli1*
@@ -100,11 +100,16 @@ const help = () => {
 ║
 ╠══✪〘 INTELIGÊNCIA IA 〙✪══
 ║
-║76 *${prefix}simih 1 (para ativar)*
-║77 *${prefix}simih 0 (para desativar)*
-║ *${prefix}simi (sua mensagem)*
+║76 *${prefix}simih 1 (para activar)*
+║77 *${prefix}simih 0 (para desactivar)*
+║ *${prefix}simi (su mensage)*
 ║
-╠══✪〘 EM TESTE 〙✪══
+╠══✪〘 En prueba 〙✪══
+║
+║
+║
+║
+║
 ║
 ║78 *${prefix}*
 ║79 *${prefix}*
@@ -149,7 +154,7 @@ const help = () => {
 ║112 *${prefix}setdesc*
 ║113 *${prefix}bug [sua mensagem]*
 ║
-╠══✪〘 ESPECIFICO DO BOT 〙✪══
+╠══✪〘 ESPECIFICO DE BOT 〙✪══
 ║
 ║114 *${prefix}bug [sua mensagem]*
 ║115 *${prefix}clonar [@]*
@@ -158,10 +163,10 @@ const help = () => {
 ║118 *${prefix}termux*
 ║119 *${prefix}gay [@]*
 ║120 *${prefix}wame*
-║121 *${prefix}map (nome)*
-║122 *${prefix}setppbot (marque uma img)*
+║121 *${prefix}map (nombre)*
+║122 *${prefix}setppbot (marque una img)*
 ║123 *${prefix}pinterest (nome)*
-║124 *${prefix}desligar (so para o dono)*
+║124 *${prefix}desligar (solo para el dueño)*
 ║125 *${prefix}timer*
 ║
 ╠══✪〘 MAIS ALGUNS 〙✪══
@@ -199,7 +204,7 @@ const help = () => {
 ║152 *${prefix}beat1*
 ║153 *${prefix}glub*
 ║
-╠══✪〘 OUTROS /2 〙✪══
+╠══✪〘 OTROS /2 〙✪══
 ║
 ║154 *${prefix}antilink [1/0]*
 ║155 *${prefix}brainly [pergunta]*
@@ -260,7 +265,7 @@ const help = () => {
 ║189 *digita*
 ║190 *machista*
 ║
-╠══✪〘 OUTROS /3 〙✪══
+╠══✪〘 OTROS /3 〙✪══
 ║
 ║191 *${prefix}atris* 🔞
 ║192 *${prefix}animemenu*
@@ -297,15 +302,15 @@ const help = () => {
 ║ *MAIS COMANDOS*
 ║ *PRÓXIMA ATT*
 ║
-╠══✪〘 𝗗𝗢𝗡𝗢 〙✪══
+╠══✪〘 Dueño 〙✪══
 ║
 ║ *NOME: 𝐷𝐴𝑅𝐾⃖  ☔*
 ║ *INSTA: th.darkys*
-║ *WPP: wa.me/+5521997123716*
-║ *YOUTUBE: https://bit.ly/3qAjeNz*
+║ *WPP: wa.me/+5521970019765
+║ *YOUTUBE: *
 ║
-║  *"Peita ou respeita 🐊🚩*
-║  *"kibadores, vão se fuder"*
+║  *"Pecho o respeto 🐊🚩*
+║  *"los kibadores se van a follar "*
 ║
 ║
 ╚═〘 𝐃𝐀𝐑𝐊 𝐁𝐎𝐓 〙`
