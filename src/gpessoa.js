@@ -1,6 +1,6 @@
 const gpessoa = (prefix) => {
 
-return `*GERADORE DE DADOS PESSOAIS:*
+return `*GERADOR DE DATOS PERSONALES:*
 
 *DARK DOMINA* 🐊🚩
 
