@@ -724,4 +724,4 @@ peso: 59
 tipo_sanguineo: A-
 cor: preto`
 }
-exports.gpessoa = gpessoa
+exports.gpessoa = gpersona
