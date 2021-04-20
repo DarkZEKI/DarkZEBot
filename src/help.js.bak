@@ -4,11 +4,11 @@ const help = (prefix) => {
 ║
 ╠➥ 𝐃𝐀𝐑𝐊 𝐁𝐎𝐓
 ╠➥ *3.2*
-╠➥ 𝐃𝐎𝐍𝐎:  ⃬⃗𝐷𝐴𝑅𝐾⃖  ☔
-╠➥ *wa.me/+5522996215481*
+╠➥ Dueño:  ⃬⃗𝐷𝐴𝑅𝐾⃖  ☔
+╠➥ *wa.me/+5521970019765*
 ╠➥ 𝐒𝐓𝐀𝐓𝐔𝐒: ON
 ║
-╠══✪〘 NOVIDADES 〙✪══
+╠══✪〘 NOVEDADES 〙✪══
 ║
 ║1 *${prefix}animecry*
 ║2 *${prefix}chentai [premium]*
@@ -36,7 +36,7 @@ const help = (prefix) => {
 ║20 *${prefix}wait [na legenda]*
 ║21 *${prefix}setprefix*
 ║
-╠══✪〘 OUTROS 〙✪══
+╠══✪〘 OTROS 〙✪══
 ║
 ║22 *${prefix}linkgp*
 ║23 *${prefix}simih [1/0]*
@@ -71,7 +71,7 @@ const help = (prefix) => {
 ║52 *${prefix}marcar2*
 ║53 *${prefix}marcar3*
 ║
-╠══✪〘 IMAGENS 〙✪══
+╠══✪〘 IMAGENES 〙✪══
 ║
 ║54 *${prefix}loli* [off]
 ║55 *${prefix}loli1*
@@ -102,7 +102,7 @@ const help = (prefix) => {
 ║77 *${prefix}simih 0 (para desativar)*
 ║ *${prefix}simi (sua mensagem)*
 ║
-╠══✪〘 EM TESTE 〙✪══
+╠══✪〘 EN PRUEBA 〙✪══
 ║
 ║78 *${prefix}*
 ║79 *${prefix}*
@@ -147,7 +147,7 @@ const help = (prefix) => {
 ║112 *${prefix}setdesc*
 ║113 *${prefix}bug [sua mensagem]*
 ║
-╠══✪〘 ESPECIFICO DO BOT 〙✪══
+╠══✪〘 ESPECIFICO DE BOT 〙✪══
 ║
 ║114 *${prefix}bug [sua mensagem]*
 ║115 *${prefix}clonar [@]*
@@ -162,7 +162,7 @@ const help = (prefix) => {
 ║124 *${prefix}desligar (so para o dono)*
 ║125 *${prefix}timer*
 ║
-╠══✪〘 MAIS ALGUNS 〙✪══
+╠══✪〘 MAS ALGUNS 〙✪══
 ║
 ║126 *${prefix}neko*
 ║127 *${prefix}ttp [texto]*
@@ -197,7 +197,7 @@ const help = (prefix) => {
 ║152 *${prefix}beat1*
 ║153 *${prefix}glub*
 ║
-╠══✪〘 OUTROS /2 〙✪══
+╠══✪〘 OTROS /2 〙✪══
 ║
 ║154 *${prefix}antilink [1/0]*
 ║155 *${prefix}brainly [pergunta]*
@@ -205,7 +205,7 @@ const help = (prefix) => {
 ║157 *${prefix}setnomebot*
 ║158 *${prefix}meme*
 ║
-╠══✪〘 INTERATIVOS 〙✪══
+╠══✪〘 INTERACTIVOS 〙✪══
 ║
 ╠══NOTA »
 ║Mandar a msg sem o prefixo
@@ -218,12 +218,12 @@ const help = (prefix) => {
 ║163 *grita*
 ║
 ║
-╠══✪〘 𝗗𝗢𝗡𝗢 〙✪══
+╠══✪〘 Dueño 〙✪══
 ║
-║ *NOME: 𝐷𝐴𝑅𝐾⃖  ☔*
-║ *INSTA: th.darkys*
-║ *WPP: wa.me/+5521997123716*
-║ *YOUTUBE: https://bit.ly/3qAjeNz*
+║ *NOMBRE: 𝐷𝐴𝑅𝐾⃖  ☔*
+║ *INSTA: *
+║ *WPP: wa.me/+5521970019765*
+║ *YOUTUBE: *
 ║
 ║  *"Peita ou respeita 🐊🚩*
 ║  *"kibadores, vão se fuder"*
