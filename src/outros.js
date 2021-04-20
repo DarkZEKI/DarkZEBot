@@ -1,6 +1,6 @@
 const iklan = () => { 
 	return `           
-╔══✪〘 *OUTROS* 〙✪══
+╔══✪〘 *OTROS* 〙✪══
 ║
 ╠➥ *${prefix}linkgp*
 ╠➥ *${prefix}simih [1/0]*
