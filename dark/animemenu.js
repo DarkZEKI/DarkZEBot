@@ -5,7 +5,7 @@ const animmenu = () => {
 ──────────────────
     『 TRAILERS 』
 ──────────────────
-𝘋𝘐𝘎𝘐𝘛𝘌 𝘖 𝘊𝘖𝘔𝘈𝘕𝘋𝘖 𝘊𝘖𝘔 𝘖 𝘓𝘐𝘕𝘒 
+ESCRIBA EL COMANDO CON EL ENLACE 
 
 𝘌𝘟: .𝘯 𝘩𝘵𝘵𝘱𝘴://...
 
@@ -26,7 +26,7 @@ ${prefix}n https://youtu.be/6W1GnrUcgXQ
 ${prefix}n https://youtu.be/y-UyPgs3hyQ
 
 ──────────────────
-    『 IMAGENS 』
+    『 IMAGENES 』
 ──────────────────
 
 *${prefix}rize*
@@ -39,7 +39,7 @@ ${prefix}n https://youtu.be/y-UyPgs3hyQ
 
 
 ──────────────────
-    『 DARKBOT 』
+    『 DarkZEBOT 』
 ──────────────────`
 }
 exports.animmenu = animmenu
